@@ -1,4 +1,4 @@
-Hey there! I'm Harsh, a 25 year old Android and Kotlin developer with a strong focus on tooling and developer productivity.
+Hey there! I'm Harsh, a 26 year old Android and Kotlin developer with a strong focus on tooling and developer productivity.
 
 I am a prolific contributor to open-source software, and all of my personal projects are built in the open. Here are some mildly interesting ones!
 
